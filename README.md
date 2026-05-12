@@ -6,15 +6,17 @@ This repository collects concise notes, patterns, and reference explanations for
 
 ## Quick Start
 1. Read the basics: [1_Basics_And_Complexity/01_Big_O_Notation.md](1_Basics_And_Complexity/01_Big_O_Notation.md)
-2. Follow the Study Roadmap: [Guides/Study_Roadmap.md](Guides/Study_Roadmap.md)
-3. Learn a concept, implement it, then solve 5–10 related problems.
+2. **Interview Prep:** Start with the [DSA Cheat Sheet](4_Interview_Preparation/DSA_Cheat_Sheet.md) and [Pattern Guide](4_Interview_Preparation/Pattern_Identification_Guide.md).
+3. Follow the Study Roadmap: [Guides/Study_Roadmap.md](Guides/Study_Roadmap.md)
+4. Solve the [Ultimate Problem List](4_Interview_Preparation/Ultimate_Problem_List.md) mapped to each topic.
 
 ## Repository Structure (high-level)
 - `1_Basics_And_Complexity/` — foundations and complexity
 - `2_Data_Structures/` — arrays, linked lists, stacks & queues, trees, graphs, tries
 - `3_Algorithms/` — sorting, searching, dynamic programming, greedy, recursion, sliding window, graph algorithms
+- `4_Interview_Preparation/` — **(New)** Cheat sheets, pattern guides, and communication frameworks
 - `Graph/` — extra graph materials
-- `Guides/` — study roadmap, usage instructions, and templates (new)
+- `Guides/` — study roadmap, usage instructions, and templates
 
 ## Study Tips
 - Daily routine: concept (20–30m) → implement (20–30m) → solve problems (30–60m) → review (10–15m)
