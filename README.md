@@ -9,12 +9,14 @@ This repository collects concise notes, patterns, and reference explanations for
 2. **Interview Prep:** Start with the [DSA Cheat Sheet](4_Interview_Preparation/DSA_Cheat_Sheet.md) and [Pattern Guide](4_Interview_Preparation/Pattern_Identification_Guide.md).
 3. Follow the Study Roadmap: [Guides/Study_Roadmap.md](Guides/Study_Roadmap.md)
 4. Solve the [Ultimate Problem List](4_Interview_Preparation/Ultimate_Problem_List.md) mapped to each topic.
+5. Review the detailed [Pattern-wise Theory](Pattern_wise/DSA_Patterns_Theory.md) alongside the workbook in `Pattern_wise/`.
 
 ## Repository Structure (high-level)
 - `1_Basics_And_Complexity/` — foundations and complexity
 - `2_Data_Structures/` — arrays, linked lists, stacks & queues, trees, graphs, tries
 - `3_Algorithms/` — sorting, searching, dynamic programming, greedy, recursion, sliding window, graph algorithms
 - `4_Interview_Preparation/` — **(New)** Cheat sheets, pattern guides, and communication frameworks
+- `Pattern_wise/` — workbook-backed theory and practice patterns
 - `Graph/` — extra graph materials
 - `Guides/` — study roadmap, usage instructions, and templates
 
